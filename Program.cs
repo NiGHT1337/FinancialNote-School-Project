@@ -59,7 +59,7 @@ class Program
         Console.WriteLine();
     }
     #endregion
-
+    
     #region ASCII Intro (FUNKTION VOLLSTÄNDIG)
     static void Intro()
     {
